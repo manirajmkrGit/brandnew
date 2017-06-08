@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="example suite 1" duration-ms="98" started-at="2017-06-05T15:50:59Z" finished-at="2017-06-05T15:50:59Z">
+  <suite name="Sample test Suite" duration-ms="39" started-at="2017-06-08T17:13:58Z" finished-at="2017-06-08T17:13:58Z">
     <groups>
     </groups>
-    <test name="Regression suite 1" duration-ms="98" started-at="2017-06-05T15:50:59Z" finished-at="2017-06-05T15:50:59Z">
+    <test name="Sample test" duration-ms="39" started-at="2017-06-08T17:13:58Z" finished-at="2017-06-08T17:13:58Z">
       <class name="myjar.maii">
-        <test-method status="PASS" signature="t1()[pri:0, instance:myjar.maii@32e6e9c3]" name="t1" duration-ms="28" started-at="2017-06-05T21:20:59Z" finished-at="2017-06-05T21:20:59Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- t1 -->
-      </class> <!-- myjar.maii -->
-    </test> <!-- Regression suite 1 -->
-  </suite> <!-- example suite 1 -->
+        <test-method status="PASS" signature="t1()" name="t1" duration-ms="19" started-at="2017-06-08T17:13:58Z" finished-at="2017-06-08T17:13:58Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
 </testng-results>
